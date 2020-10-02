@@ -19,7 +19,8 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Data Engineer at Amazon
+Grace Hopper Celebration Attendee :)
 
 ## Recognition
 
@@ -28,5 +29,5 @@ Grace Hopper Celebration Attendee
 ## Social Media
 
 - Twitter
-- LinkedIn
+- [LinkedIn](www.linkedin.com/in/sara-mallak-2328851b)
 - GitHub
